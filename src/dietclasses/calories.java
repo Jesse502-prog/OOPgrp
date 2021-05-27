@@ -31,7 +31,7 @@ import org.json.simple.parser.ParseException;
 
 
 public class calories {
-    public double breakTotalCal; //calories of breakfast
+     //calories of breakfast
     public double lunchTotalCal; //calories of lunch
     public double dinnerTotalCal; //calories of dinner
     public ArrayList <Double> totalCalForAll = new ArrayList<>();
